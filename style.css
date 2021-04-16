@@ -1,0 +1,24 @@
+
+body{
+font-family: 'Montserrat';
+color:#FDFFFC;
+background-color: #011627;
+border: 60px solid #2EC4B6;
+border-top: 0px;
+text-align: center;
+}
+
+
+.userinput{
+font-size: 1.5em;
+margin-bottom: 10px;
+}
+
+#sub{
+  background-color: #2EC4B6;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 2px;
+  transition: .2s;
+  color: white;
+}
